@@ -23,7 +23,7 @@ const HomePage = () => (
       justify="center"
     >
       <Heading level="1" color="brand">
-        NO
+        YES
       </Heading>
     </Box>
   </Grommet>
